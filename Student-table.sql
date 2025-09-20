@@ -1,7 +1,7 @@
 -- Create Database
 CREATE DATABASE SchoolDB;
 
--- Use Database
+-- Use qwS
 USE SchoolDB;
 
 -- Create Student Table
